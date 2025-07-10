@@ -26,8 +26,9 @@ This app is ideal for learning, testing knowledge, or just having fun with quizz
 
 1. **Clone the Repository**
    ```bash
-   [git clone https://github.com/your-username/quiz-app.git](https://github.com/AnandKum4r/Quiz-App.git)
+   git clone https://github.com/AnandKum4r/Quiz-App.git
    cd quiz-app
+   ```
 
 ## Usage
 1. Open index.html in your browser
