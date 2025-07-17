@@ -22,6 +22,14 @@ This app is ideal for learning, testing knowledge, or just having fun with quizz
 
 ---
 
+## 🚀 Technologies Used
+
+- 🧱 **HTML** – Markup and structure  
+- 🎨 **CSS** – Styling and layout (modern, clean design)  
+- 🧠 **JavaScript** – Quiz logic, question navigation, and scoring  
+
+---
+
 ## 📂 How to Use / Run
 
 1. **Clone the Repository**
@@ -32,13 +40,5 @@ This app is ideal for learning, testing knowledge, or just having fun with quizz
 
 ## Usage
 1. Open index.html in your browser
-
----
-
-## 🚀 Technologies Used
-
-- 🧱 **HTML** – Markup and structure  
-- 🎨 **CSS** – Styling and layout (modern, clean design)  
-- 🧠 **JavaScript** – Quiz logic, question navigation, and scoring  
 
 ---
